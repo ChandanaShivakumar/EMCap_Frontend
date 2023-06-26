@@ -1,0 +1,27 @@
+.background{
+  background-image: url("background.jpg");
+  
+  
+}
+.row1{
+  background-image: url("background.jpg");
+  height: 100vh;
+  
+ 
+}
+/* .Container{
+  width: 50%;
+  height: 50vh;
+  
+  
+  margin: 20px;
+  margin-right: 20px;
+  padding: 20px;
+  background-color: #f2f2f2;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.3);
+} */
+
+.inputs{
+  width: 300px ;
+}
