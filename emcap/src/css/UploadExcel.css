@@ -1,0 +1,42 @@
+.main {
+    background-image: url("../images/background.jpg");
+  }
+  .contain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    
+  }
+  .h1{
+    margin-bottom: 20px;
+  }
+  .form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: white;
+    height: 40vh;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+  }
+  .input{
+    margin-bottom: 0px;
+    padding: 5px;
+
+  }
+ 
+  .vl {
+    border-left: 6px solid green;
+    height: 300px;
+  }
+  .button{
+    width: 100%;
+    border-radius: 10px;
+    min-height: 30px;
+    background-color: blueviolet;
+    border: none;
+    box-shadow: 0px 0px 20px rgba(214, 252, 27, 0.2);
+  }
